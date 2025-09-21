@@ -33,7 +33,7 @@ This project demonstrates **clean architecture, modern Python practices, and con
    ```bash
    git clone https://github.com/your-username/file-organizer.git
    cd file-organizer
-  ``
+  
 
 2. (Optional) Create a virtual environment:
 
